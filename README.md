@@ -3,8 +3,12 @@
 <h3 align="center">A passionate Frontend Developer from Pakistan</h3><br>
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
-- 🌱 I'm currently learning **Next JS**
-- 📫 How to reach me **powehi29@gmail.com**
+- 👨‍💻 Passionate about crafting **exceptional web experiences**
+- 🚀 Currently mastering the art of **Next.js** and **serverless architectures**
+- 🌟 Always excited to collaborate on **innovative projects**
+- 📚 Lifelong learner, constantly exploring **new technologies**
+- 🎨 Blending **creativity with code** to build **intuitive user interfaces**
+- 🌐 Committed to creating **accessible** and **responsive web applications**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -94,7 +98,7 @@
       </a>
     </td>
   </tr>
-</table>
+</table><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammed-zain-ul-hassan&show_icons=true&locale=en&layout=compact" alt="mohammed-zain-ul-hassan" /></p>
 
