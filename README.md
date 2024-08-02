@@ -4,7 +4,7 @@
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 - 👨‍💻 Passionate about crafting **exceptional web experiences**
-- 🚀 Currently mastering the art of **Next.js** and **serverless architectures**
+- 🚀 Currently mastering **three.js** 
 - 🌟 Always excited to collaborate on **innovative projects**
 - 📚 Lifelong learner, constantly exploring **new technologies**
 - 🎨 Blending **creativity with code** to build **intuitive user interfaces**
