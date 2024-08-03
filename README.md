@@ -100,8 +100,6 @@
   </tr>
 </table><br>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammed-zain-ul-hassan&theme=vue)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammed-zain-ul-hassan&show_icons=true&locale=en&layout=compact" alt="mohammed-zain-ul-hassan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammed-zain-ul-hassan&show_icons=true&locale=en" alt="mohammed-zain-ul-hassan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-zain-ul-hassan&" alt="mohammed-zain-ul-hassan" /></p>
