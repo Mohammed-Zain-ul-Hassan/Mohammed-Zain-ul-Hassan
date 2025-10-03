@@ -5,11 +5,22 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
-- 👨‍💻 Working with **Next.js, Supabase, Appwrite & Web Security**  
-- 🎨 Building with **React, TailwindCSS, ShadCN UI**  
-- 🌱 Currently exploring **Three.js and AI automation workflows**  
-- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/zainulhassanoffcial/)**  
+- Working with Next.js, Supabase, Appwrite and web security.  
+- Building interfaces with React, Tailwind CSS and ShadCN UI.  
+- Working with Three.js and automation workflows (n8n, Stripe, Dwolla).  
 
+---
+
+Let's get connected!
+
+<a href="https://www.linkedin.com/in/zainulhassanoffcial/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="70" height="70" alt="LinkedIn"/>
+</a>
+
+
+---
+---
+---
 ---
 
 <h3 align="left">Programming & Languages</h3>
