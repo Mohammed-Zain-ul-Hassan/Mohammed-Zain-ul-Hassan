@@ -40,7 +40,7 @@ Let's get connected!
   </td>
   <td align="center" width="96" height="96" style="background:#f5f5f5; border-radius:12px;">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="40" height="40" alt="JavaScript"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
     </a>
   </td>
   <td align="center" width="96" height="96" style="background:#f5f5f5; border-radius:12px;">
